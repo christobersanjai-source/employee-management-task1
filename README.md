@@ -5,8 +5,8 @@ FastAPI + PostgreSQL + psycopg + Docker Compose sample project.
 Ensure Docker Desktop's Linux/WSL engine is running. In this folder run:
 `docker compose up -d --build`
 
-Open Swagger UI: http://127.0.0.1:8000/docs
-Health check: http://127.0.0.1:8000/health
+Open Swagger UI: http://127.0.0.1:8002/docs
+Health check: http://127.0.0.1:8002/health
 
 The API creates the employees table on startup. Ten fictional sample employees are included in `sample_data/employees.json` for reference and are not auto-imported. Settings are read from `.env`; do not commit `.env` or real secrets.
 
