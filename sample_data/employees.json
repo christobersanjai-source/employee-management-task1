@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Arun Kumar",
+    "email": "arun.kumar@example.com",
+    "department": "IT",
+    "job_title": "Python Developer"
+  },
+  {
+    "id": 2,
+    "name": "Priya S",
+    "email": "priya.s@example.com",
+    "department": "HR",
+    "job_title": "HR Executive"
+  },
+  {
+    "id": 3,
+    "name": "Karthik R",
+    "email": "karthik.r@example.com",
+    "department": "Finance",
+    "job_title": "Accountant"
+  },
+  {
+    "id": 4,
+    "name": "Divya M",
+    "email": "divya.m@example.com",
+    "department": "IT",
+    "job_title": "Software Engineer"
+  },
+  {
+    "id": 5,
+    "name": "Vijay A",
+    "email": "vijay.a@example.com",
+    "department": "Sales",
+    "job_title": "Sales Executive"
+  },
+  {
+    "id": 6,
+    "name": "Meena P",
+    "email": "meena.p@example.com",
+    "department": "Operations",
+    "job_title": "Operations Analyst"
+  },
+  {
+    "id": 7,
+    "name": "Rahul K",
+    "email": "rahul.k@example.com",
+    "department": "IT",
+    "job_title": "QA Engineer"
+  },
+  {
+    "id": 8,
+    "name": "Nithya R",
+    "email": "nithya.r@example.com",
+    "department": "Marketing",
+    "job_title": "Marketing Associate"
+  },
+  {
+    "id": 9,
+    "name": "Suresh B",
+    "email": "suresh.b@example.com",
+    "department": "Support",
+    "job_title": "IT Support Engineer"
+  },
+  {
+    "id": 10,
+    "name": "Anitha D",
+    "email": "anitha.d@example.com",
+    "department": "Finance",
+    "job_title": "Finance Analyst"
+  }
+]
